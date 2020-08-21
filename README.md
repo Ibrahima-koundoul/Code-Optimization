@@ -1,0 +1,2 @@
+# Code-Optimization
+This project consists of analyzing and optimizing the performance of a given code which aims to apply transformations to uncompressed raw video content (RGB) stored in a file. We will analyze and improve the performance of the codes provided by documenting and justifying the steps followed (successful or not). To do this, we will respect a rigorous experimental protocol so as not to leave room for inexplicable instabilities.
